@@ -1,2 +1,2 @@
-# class-35
-hypnotic ball
+# synchronousBallMovement
+Ball moving synchronously
